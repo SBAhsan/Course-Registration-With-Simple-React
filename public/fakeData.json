@@ -1,0 +1,74 @@
+[
+    {
+        "cover": "./Asset/Python.png",
+        "title": "Introduction to Python Programming",
+        "description": "Learn Python programming language from scratch. This course covers basic syntax, data types, control structures, and more.",
+        "price": 49.99,
+        "credit_hour": 3,
+        "id": 1
+    },
+    {
+        "cover": "./Asset/Rectangle 2-1.png",
+        "title": "Web Development Fundamentals",
+        "description": "Master the basics of web development including HTML, CSS, and JavaScript. Build your first website from scratch.",
+        "price": 59.99,
+        "credit_hour": 4,
+        "id": 2
+    },
+    {
+        "cover": "./Asset/Rectangle 2-2.png",
+        "title": "Data Science Essentials",
+        "description": "An introduction to data science concepts and tools. Learn data analysis, visualization, and manipulation using Python and libraries like Pandas and Matplotlib.",
+        "price": 69.99,
+        "credit_hour": 5,
+        "id": 3
+    },
+    {
+        "cover": "./Asset/Rectangle 2-3.png",
+        "title": "Mobile App Development with React Native",
+        "description": "Build cross-platform mobile apps using React Native framework. Learn to create responsive and dynamic mobile applications.",
+        "price": 79.99,
+        "credit_hour": 6,
+        "id": 4
+    },
+    {
+        "cover": "./Asset/Rectangle 2-4.png",
+        "title": "Machine Learning Fundamentals",
+        "description": "An introduction to machine learning algorithms and techniques. Understand supervised and unsupervised learning, regression, classification, and clustering.",
+        "price": 89.99,
+        "credit_hour": 7,
+        "id": 5
+    },
+    {
+        "cover": "./Asset/Rectangle 2-5.png",
+        "title": "Advanced JavaScript Concepts",
+        "description": "Deep dive into advanced JavaScript topics such as closures, prototypes, asynchronous programming, and ES6 features.",
+        "price": 69.99,
+        "credit_hour": 5,
+        "id": 6
+    },
+    {
+        "cover": "./Asset/Rectangle 2-6.png",
+        "title": "Cyber-security Basics",
+        "description": "An overview of cybersecurity fundamentals including network security, cryptography, ethical hacking, and best practices.",
+        "price": 59.99,
+        "credit_hour": 4,
+        "id": 7
+    },
+    {
+        "cover": "./Asset/Rectangle 3-1.png",
+        "title": "Graphic Design for Beginners",
+        "description": "Learn the basics of graphic design including color theory, typography, layout design, and creating digital artwork using Adobe Creative Suite.",
+        "price": 49.99,
+        "credit_hour": 3,
+        "id": 8
+    },
+    {
+        "cover": "./Asset/Rectangle 3.png",
+        "title": "Introduction to Blockchain Technology",
+        "description": "Understand the fundamentals of blockchain technology, cryptocurrencies, smart contracts, and decentralized applications.",
+        "price": 79.99,
+        "credit_hour": 6,
+        "id": 9
+    }
+]
